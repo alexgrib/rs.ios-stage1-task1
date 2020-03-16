@@ -17,5 +17,5 @@ Task 1 состоит из пяти подзадач, которые  необх
 
 
  
-![Image of UnitTests](https://github.com/rolling-scopes-school/rs.ios-stage1-task1/blob/master/images/UnitTests.png)
+![Image of UnitTests](https://github.com/alexgrib/rs.ios-stage1-task1/blob/master/images/UnitTest.png)
 
